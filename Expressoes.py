@@ -11,19 +11,19 @@ def expressoes():
                 pilha.append(char)
             elif char in pares.values():
                 if not pilha:
-                    print("A expressão é inválida.")
+                    print("INVÁLIDA")
                     break
                 last_char = pilha.pop()
                 if char != pares[last_char]:
-                    print("A expressão é inválida.")
+                    print("INVÁLIDA")
                     break
             elif not char.isdigit() and char not in '+-/*':
-                print("A expressão é inválida.")
+                print("INVÁLIDA")
                 break
         else:
             if pilha:
-                print("A expressão é inválida.")
+                print("INVÁLIDA")
             else:
-                print("A expressão é válida.")
+                print("VÁLIDA")
                 
         i = 0

@@ -21,8 +21,7 @@ while i != 0:
         
         if i == 0: pass
 
-        else: print('Não existe esta opção')
+        #else: print('Não existe esta opção')
         
     except: print('Digite apenas números')
-    
     

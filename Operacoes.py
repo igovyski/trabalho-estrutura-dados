@@ -26,7 +26,8 @@ def operacoes():
 def addOperacaoFila():
     i = 10
     while i != 0:
-        print('\n1 - Adição (+)')
+        print('\n===== Operações =====')
+        print('1 - Adição (+)')
         print('2 - Subtração (-)')
         print('3 - Multiplicação (*)')
         print('4 - Divisão (/)')

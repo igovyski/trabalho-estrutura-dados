@@ -7,4 +7,4 @@
 ### Integrantes do grupo:
 * Caio Victor Dantas Oliveira
 * Igor da Silva Pessoa
-* Yuri Guilherme Santana de Sá - [GitHub] (https://github.com/Player35Oficial)
+* Yuri Guilherme Santana de Sá - [GitHub](https://github.com/Player35Oficial)
